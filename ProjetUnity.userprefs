@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Pedal\moveFoward.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Car\carPhysic.cs" Line="312" Column="62" />
+      <File FileName="..\..\..\Documents\ProjetUnity\Assets\Scripts\GUI\menuInGame.cs" Line="36" Column="4" />
+      <File FileName="Assets\Scripts\Statics scripts\resizeGUI.cs" Line="6" Column="21" />
+      <File FileName="Assets\Scripts\GUI\menu.cs" Line="15" Column="2" />
+      <File FileName="Assets\Scripts\LVL Script\lvl.cs" Line="14" Column="2" />
+      <File FileName="Assets\Scripts\Pedal\moveBack.cs" Line="11" Column="51" />
+      <File FileName="Assets\Scripts\Pedal\moveFoward.cs" Line="12" Column="51" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

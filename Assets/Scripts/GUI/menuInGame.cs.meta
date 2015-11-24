@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 1257bf0cf5facb74f82292124e702499
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - textureJouer: {fileID: 2800000, guid: ce39a74b4bb1208469fc72df0c51c7db, type: 3}
+  - textureQuitter: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
